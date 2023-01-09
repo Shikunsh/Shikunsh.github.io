@@ -23,4 +23,4 @@ keywords: coffee_bean, fellow_drop
 | Bloom | 47|
 | Pour | 103, 100, 100|
 
-Fruity flavor with a hint of flowers. Very light without too much acidity or bitness.
+It tastes fruity with a hint of flowers. It's very light and there is not too much acidity or bitness.The clean, fresh aroma is typical of washed coffee.
