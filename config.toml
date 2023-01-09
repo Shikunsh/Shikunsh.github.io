@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Cactus theme example"
+title = "Shikonn's Brain Cell"
 theme = "cactus"
 copyright = "Shikun" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
@@ -16,7 +16,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Writings"
+name = "Posts"
 url = "/posts"
 weight = 2
 
@@ -26,9 +26,14 @@ url = "/tags"
 weight = 3
 
 [[menu.main]]
+name = "Coffee Beans"
+url = "/coffee_beans"
+weight = 4
+
+[[menu.main]]
 name = "About"
 url = "/about"
-weight = 4
+weight = 5
 
 [markup]
   [markup.tableOfContents]
@@ -54,8 +59,9 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors."
+  description = "I live. I code. I cook. I sketch and paint. I caffeinate, or carbonate, or both. I play video games and board games. I kinda read. I agonize. I hate social media."
   mainSection = "posts" # your main section
+  mainSections = ["posts", "coffee_beans"]
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
@@ -91,4 +97,4 @@ weight = 4
     link = "https://www.linkedin.com/company/github/"
   [[params.social]]
     name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    link = "shikunsh@gmail.com"  # no need for "mailto:" in the head

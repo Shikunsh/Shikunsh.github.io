@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shikonn&#39;s Brain Cell</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Shikonn&#39;s Brain Cell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Shikun</copyright>
+    <lastBuildDate>Sun, 08 Jan 2023 16:11:22 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sun, 08 Jan 2023 16:11:22 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Github: Shikunsh</description>
+    </item>
+    
+    <item>
+      <title>Hamasho from ILSE COFFEE</title>
+      <link>https://example.com/coffee_beans/ilse_hamasho/</link>
+      <pubDate>Sun, 08 Jan 2023 16:11:22 +0000</pubDate>
+      
+      <guid>https://example.com/coffee_beans/ilse_hamasho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://example.com/posts/2016-10-22-z/</link>
+      <pubDate>Sat, 22 Oct 2016 16:56:54 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-10-22-z/</guid>
+      <description>first post</description>
+    </item>
+    
+  </channel>
+</rss>
