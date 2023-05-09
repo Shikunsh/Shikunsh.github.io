@@ -14,7 +14,6 @@ keywords: coffee_bean, blackandwhite
 | Process   | 2 anaerobically fermented ethiopia, 3 co-fermented (one with passionfruit, one with lychee, one with lemon) from columnbia |
 | Note      | fresh citrus, red raspberry, pink bubblegum, tropical                                                                      |
 | Roast     | light medium                                                                                                               |
-| Elevation | 1950-2300 MASL                                                                                                             |
 | Region    | Ethiopia and Colombia                                                                                                      |
 | Variety   | various                                                                                                                    |
 
