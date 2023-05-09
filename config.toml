@@ -26,8 +26,8 @@ url = "/tags"
 weight = 3
 
 [[menu.main]]
-name = "Coffee beans"
-url = "/coffee_beans"
+name = "Coffee"
+url = "/coffee"
 weight = 4
 
 [[menu.main]]
@@ -59,9 +59,9 @@ weight = 5
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "I live. I code. I cook. I sketch and paint. I caffeinate, or carbonate, or both. I play video games and board games. I kinda read. I agonize. I hate social media."
+  description = "I live. I code. I cook. I sketch and paint. I caffeinate, or carbonate, or both. I play video games and board games. I watch movies. I used to watch animes. I kinda read. I agonize. I hate social media."
   mainSection = "posts" # your main section
-  mainSections = ["posts", "coffee_beans"]
+  mainSections = ["posts", "coffee"]
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.

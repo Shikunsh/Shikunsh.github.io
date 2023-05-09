@@ -1,5 +1,5 @@
 ---
-title: LAYO \#5 from LOVELESS COFFEES
+title: LAYO 5 from LOVELESS COFFEES
 date: 2023-01-21 13:02:32
 categories: 
 keywords: coffee_bean, fellow_drop, lovelesscoffees
